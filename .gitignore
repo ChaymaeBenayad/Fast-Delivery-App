@@ -1,2 +1,5 @@
 # created by virtualenv automatically
 
+db.sqlite3
+views.cpython-39.pyc
+urls.cpython-39.pyc
