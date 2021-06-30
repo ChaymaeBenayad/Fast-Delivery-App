@@ -36,3 +36,14 @@ body {
 h1{
     text-align: center;
 }
+
+.btn-primary{
+  background-color: #fdd000;
+  color: black;
+  border: none;
+}
+.btn-primary:hover{
+  background-color: black;
+  color: #fdd000;
+  border: none;
+}
