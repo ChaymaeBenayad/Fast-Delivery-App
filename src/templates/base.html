@@ -11,12 +11,19 @@
 
 
 <body>
+   {% block css  %} 
+
+   {% endblock css %}
+
+
    {% block content %}
 
 
    {% endblock content %}
 
    {% include 'snippets/footer.html' %}
+
+   {% include 'landmark/jslinks.html' %}
 </body>
 
 </html>

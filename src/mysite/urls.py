@@ -20,7 +20,11 @@ from django.conf import settings
 
 from landmark.views import (
     home_view,
-
+    webpage1,
+    webpage2,
+    palce_proche,
+    map_view,
+    display_destination_reperes
 )
 
 from account.views import (
@@ -36,7 +40,11 @@ urlpatterns = [
     path('', login_view, name="login"),
     path('register/', registration_view, name="register"),
     path('logout/', logout_view, name="logout"),
-    
+    path('test/',webpage1,name="webpage1"),
+    path('optimal/',webpage2,name="webpage2"),
+    path('trouver/', palce_proche, name="palce_proche"),
+    path('mapTest/', map_view, name="map"),
+    path('reperes/',display_destination_reperes,name="display_reperes"),
 ]
 
 
@@ -45,3 +53,4 @@ urlpatterns = [
 
 if settings.DEBUG:
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

@@ -1,0 +1,140 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block css  %} 
+
+<style type="text/css">
+select {
+ font-family: 'Times New Roman';
+ width: 100%;
+ /* background-color: #2f3640; */
+ /* background-color: #F8F8F8; */
+ background-color: #fff;
+ transition: all 0.4s;
+ border-radius: 50%;
+ border:none;
+ box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+ margin-bottom: 20px;
+ margin-top: 15px;
+}
+select::-webkit-scrollbar{
+    /* width: 15px;
+    background-color: #fdd000;
+    border-radius: 0 8px 8px 0; */
+    display: none;
+}    
+select option {
+color: #000;
+ text-align: center;
+ font-size: 16px;
+ font-family: 'stenciletta-solid', sans-serif;
+ cursor: pointer;
+ padding: 8px 0px;
+}
+
+select option:hover {
+background-color: #fdd000;
+}
+img{
+    width: 300px;
+    height: 230px;
+}
+#img1{
+    width: 100%;
+    height: 460px;
+}
+button{
+   width: 100%;
+   color: black;
+   background-color: #fdd000;
+   text-align: center;
+   border-radius: 25px;
+   transition: all .2s ease-in-out;
+   font-size: 18px;
+   font-weight: bold;
+   border: none;
+   padding: 6px;
+}
+  
+button:hover{
+   transform: scale(1.1);
+   cursor: pointer;
+}
+.img-box{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+  </style> -->
+{% endblock css %}  
+
+
+{% block content %}
+<!-- START SECTION HEADINGS -->
+<div class="clearfix"></div>
+<!-- Header Container / End -->
+
+<!-- STAR HEADER IMAGE -->
+<section class="header-image d-flex align-items-center parallax-search8 overlay" id="slider">
+    <div class="container">
+        <div class="row d-flex align-items-center bg8">
+            <div class="col-lg-6 pr-5 ilust">
+                <div class="left wow fadeInLeft">
+                    <h2 class="pl-3">Livrez vos commandes rapidement ! </h2>
+                    <p class="pl-3">Trouvez votre chemin :</p>
+                     <!-- Search Form -->
+                     <div>
+                         <form  method="post" action="{% url 'webpage2' %}">
+                             {% csrf_token %}
+                             {{ form.landmarks }}
+                             <br>
+                             <!-- <div class="form-group button">
+                                 <button type="submit" class="btn">Rechercher</button>
+                             </div> -->
+                             
+                                <button type="submit">Rechercher</button>
+                            
+                             <!--/ End Form Button -->
+                         </form>
+                     </div>
+                     <!--/ End Search Form -->
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeInRight">
+                <img id="img1"src="{% static 'images/43358.jpg' %}" alt="" />
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END HEADER IMAGE -->
+
+<section class="feature-cities-1">
+    <div class="container">
+        <div class="sec-title">
+            <h2>Top Repères</h2>
+            <p>Endroits populaires à Casablanca</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+            </div>
+            {% for repere in display_reperes %}
+            <div class="col-lg-4 col-md-6">
+                <!-- Image Box -->
+                <a href="#" class="img-box hover-effect">
+                    <img src="{{ repere.photo.url }}" class="img-responsive" alt="" />
+                    <div class="overlay"></div>
+                    <div class="img-box-content visible">
+                        <h4>{{ repere.name }}  </h4>
+                        <span>{{ repere.description|slice:":100" }}</span>
+                    </div>
+                </a>
+            </div>
+             {% endfor %}
+                
+        </div>
+    </div>
+</section>
+<!-- END SECTION FEATURE CITIES -->
+{% endblock content %}
+
+

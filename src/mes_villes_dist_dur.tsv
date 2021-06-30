@@ -1,0 +1,436 @@
+ville1	ville2	distance_m	duree_s
+Aïn Chock	Aïn Sebaâ	11021	1294
+Aïn Chock	Hay Mohammadi	12016	1441
+Aïn Chock	Ben M'sick	3451	705
+Aïn Chock	Hay Hassani	12903	1720
+Aïn Chock	CASA Tachfine Center	9036	1203
+Aïn Chock	Sbata	2421	417
+Aïn Chock	Sidi Maârouf	8688	1151
+Aïn Chock	Bourgogne	2341045	88569
+Aïn Chock	Aïn Borja	8566	1134
+Aïn Chock	Maârif	8409	1171
+Aïn Chock	Hay El Houda	11804	1333
+Aïn Chock	Hay El Baraka	13207	1721
+Aïn Chock	Hay Al Amal	4987	900
+Aïn Chock	Mers Sultan	2884	493
+Aïn Chock	Hay Essalam	144955	5970
+Aïn Chock	ANFA	7759	1170
+Aïn Chock	El Oulfa	11552	1520
+Aïn Chock	Lissasfa	11257	1284
+Aïn Chock	Sidi Bernoussi	14889	1350
+Aïn Chock	Hay El Farah	4991	913
+Aïn Chock	Al Fida	5640	924
+Aïn Chock	BACHKOU	8039	1057
+Aïn Chock	Hay Woroud	2963300	110668
+Aïn Chock	LA GIRONDE	1764988	68301
+Aïn Chock	Derb Ghallef	9260	1358
+Aïn Chock	Sidi Moumen	11527	1352
+Aïn Chock	Hay Arrahma	6481	1008
+Aïn Chock	Hay Moulay Rachid 4	6790	1105
+Aïn Chock	Bournazel	2026431	77224
+Hay Mohammadi	Aïn Sebaâ	3271	414
+Ben M'sick	Aïn Sebaâ	8567	919
+Hay Hassani	Aïn Sebaâ	17657	1650
+CASA Tachfine Center	Aïn Sebaâ	6096	761
+Sbata	Aïn Sebaâ	10844	1217
+Sidi Maârouf	Aïn Sebaâ	18087	1554
+Bourgogne	Aïn Sebaâ	2330800	88165
+Aïn Sebaâ	Aïn Borja	6438	846
+Maârif	Aïn Sebaâ	12386	1087
+Hay El Houda	Aïn Sebaâ	3207	582
+Aïn Sebaâ	Hay El Baraka	17961	1651
+Hay Al Amal	Aïn Sebaâ	9151	888
+Mers Sultan	Aïn Sebaâ	10276	909
+Hay Essalam	Aïn Sebaâ	134710	5566
+ANFA	Aïn Sebaâ	11933	1210
+El Oulfa	Aïn Sebaâ	17545	1504
+Lissasfa	Aïn Sebaâ	16011	1214
+Sidi Bernoussi	Aïn Sebaâ	5765	644
+Hay El Farah	Aïn Sebaâ	7756	871
+Al Fida	Aïn Sebaâ	9207	927
+Aïn Sebaâ	BACHKOU	12843	943
+Hay Woroud	Aïn Sebaâ	2953055	110264
+LA GIRONDE	Aïn Sebaâ	1754743	67897
+Derb Ghallef	Aïn Sebaâ	13237	1274
+Sidi Moumen	Aïn Sebaâ	2930	600
+Hay Arrahma	Aïn Sebaâ	5064	769
+Hay Moulay Rachid 4	Aïn Sebaâ	4830	752
+Bournazel	Aïn Sebaâ	2016186	76820
+Hay Mohammadi	Ben M'sick	5690	774
+Hay Mohammadi	Hay Hassani	15688	1633
+Hay Mohammadi	CASA Tachfine Center	3273	488
+Sbata	Hay Mohammadi	7518	1086
+Hay Mohammadi	Sidi Maârouf	16117	1537
+Hay Mohammadi	Bourgogne	2335051	88423
+Hay Mohammadi	Aïn Borja	3310	547
+Hay Mohammadi	Maârif	10416	1070
+Hay Mohammadi	Hay El Houda	5161	863
+Hay Mohammadi	Hay El Baraka	15992	1634
+Hay Mohammadi	Hay Al Amal	4807	680
+Hay Mohammadi	Mers Sultan	8306	891
+Hay Essalam	Hay Mohammadi	138961	5824
+Hay Mohammadi	ANFA	7887	1222
+Hay Mohammadi	El Oulfa	15576	1487
+Lissasfa	Hay Mohammadi	14042	1197
+Hay Mohammadi	Sidi Bernoussi	10016	902
+Hay El Farah	Hay Mohammadi	4133	610
+Hay Mohammadi	Al Fida	6066	911
+Hay Mohammadi	BACHKOU	10874	926
+Hay Mohammadi	Hay Woroud	2957306	110522
+Hay Mohammadi	LA GIRONDE	1758994	68155
+Hay Mohammadi	Derb Ghallef	11267	1257
+Hay Mohammadi	Sidi Moumen	6654	904
+Hay Arrahma	Hay Mohammadi	5275	832
+Hay Mohammadi	Hay Moulay Rachid 4	5041	815
+Hay Mohammadi	Bournazel	2020437	77078
+Ben M'sick	Hay Hassani	14355	1494
+Ben M'sick	CASA Tachfine Center	5709	746
+Sbata	Ben M'sick	3700	591
+Ben M'sick	Sidi Maârouf	14784	1398
+Ben M'sick	Bourgogne	2337578	88408
+Ben M'sick	Aïn Borja	5239	677
+Ben M'sick	Maârif	9083	931
+Ben M'sick	Hay El Houda	9458	870
+Ben M'sick	Hay El Baraka	14658	1495
+Ben M'sick	Hay Al Amal	2641	437
+Ben M'sick	Mers Sultan	3074	536
+Hay Essalam	Ben M'sick	141488	5809
+Ben M'sick	ANFA	5719	1015
+Ben M'sick	El Oulfa	14242	1348
+Lissasfa	Ben M'sick	12708	1058
+Ben M'sick	Sidi Bernoussi	12543	887
+Hay El Farah	Ben M'sick	2645	450
+Ben M'sick	Al Fida	3402	625
+Ben M'sick	BACHKOU	9540	787
+Ben M'sick	Hay Woroud	2959833	110507
+Ben M'sick	LA GIRONDE	1761521	68140
+Ben M'sick	Derb Ghallef	6490	1179
+Ben M'sick	Sidi Moumen	9181	889
+Hay Arrahma	Ben M'sick	5356	825
+Ben M'sick	Hay Moulay Rachid 4	4672	722
+Ben M'sick	Bournazel	2022964	77063
+Hay Hassani	CASA Tachfine Center	9277	1661
+Sbata	Hay Hassani	20058	1767
+Hay Hassani	Sidi Maârouf	8955	1431
+Hay Hassani	Bourgogne	2347646	89348
+Hay Hassani	Aïn Borja	16288	1612
+Hay Hassani	Maârif	5712	1032
+Hay Hassani	Hay El Houda	19526	1811
+Hay Hassani	Hay El Baraka	730	153
+Hay Hassani	Hay Al Amal	12426	1466
+Hay Hassani	Mers Sultan	10940	1293
+Hay Essalam	Hay Hassani	151556	6749
+Hay Hassani	ANFA	7383	1217
+Hay Hassani	El Oulfa	2296	410
+Lissasfa	Hay Hassani	6012	1017
+Hay Hassani	Sidi Bernoussi	22611	1828
+Hay El Farah	Hay Hassani	12459	1499
+Hay Hassani	Al Fida	8622	1495
+Hay Hassani	BACHKOU	6325	1098
+Hay Hassani	Hay Woroud	2969901	111448
+Hay Hassani	LA GIRONDE	1771589	69080
+Hay Hassani	Derb Ghallef	7013	1121
+Hay Hassani	Sidi Moumen	19249	1829
+Hay Arrahma	Hay Hassani	17974	1886
+Hay Hassani	Hay Moulay Rachid 4	16846	1806
+Hay Hassani	Bournazel	2033032	78004
+Sbata	CASA Tachfine Center	7095	1010
+Sidi Maârouf	CASA Tachfine Center	15597	1502
+Bourgogne	CASA Tachfine Center	2337354	88577
+CASA Tachfine Center	Aïn Borja	694	136
+Maârif	CASA Tachfine Center	9895	1035
+CASA Tachfine Center	Hay El Houda	9234	1039
+CASA Tachfine Center	Hay El Baraka	15471	1599
+Hay Al Amal	CASA Tachfine Center	2894	545
+Mers Sultan	CASA Tachfine Center	7786	857
+Hay Essalam	CASA Tachfine Center	141265	5978
+ANFA	CASA Tachfine Center	3880	776
+El Oulfa	CASA Tachfine Center	15055	1452
+Lissasfa	CASA Tachfine Center	13521	1162
+Sidi Bernoussi	CASA Tachfine Center	12319	1056
+Hay El Farah	CASA Tachfine Center	3381	602
+CASA Tachfine Center	Al Fida	3952	784
+CASA Tachfine Center	BACHKOU	10353	891
+Hay Woroud	CASA Tachfine Center	2959609	110677
+LA GIRONDE	CASA Tachfine Center	1761297	68309
+CASA Tachfine Center	Derb Ghallef	4569	961
+Sidi Moumen	CASA Tachfine Center	8957	1058
+Hay Arrahma	CASA Tachfine Center	6869	1081
+Hay Moulay Rachid 4	CASA Tachfine Center	6185	978
+Bournazel	CASA Tachfine Center	2022740	77233
+Sbata	Sidi Maârouf	14315	1296
+Sbata	Bourgogne	2340094	88510
+Sbata	Aïn Borja	7192	984
+Sbata	Maârif	10972	1224
+Sbata	Hay El Houda	7502	1158
+Sbata	Hay El Baraka	16548	1788
+Sbata	Hay Al Amal	5564	857
+Sbata	Mers Sultan	4869	748
+Sbata	Hay Essalam	144005	5912
+Sbata	ANFA	8188	1348
+Sbata	El Oulfa	16132	1641
+Sbata	Lissasfa	14598	1351
+Sbata	Sidi Bernoussi	14360	1223
+Sbata	Hay El Farah	5218	801
+Sbata	Al Fida	5872	959
+Sbata	BACHKOU	11430	1080
+Sbata	Hay Woroud	2962350	110610
+Sbata	LA GIRONDE	1764037	68242
+Sbata	Derb Ghallef	11823	1411
+Sbata	Sidi Moumen	7714	1194
+Sbata	Hay Arrahma	4340	632
+Sbata	Hay Moulay Rachid 4	5449	754
+Sbata	Bournazel	2025480	77166
+Sidi Maârouf	Bourgogne	2351172	89121
+Sidi Maârouf	Aïn Borja	14731	1448
+Maârif	Sidi Maârouf	7559	1114
+Sidi Maârouf	Hay El Houda	17969	1647
+Sidi Maârouf	Hay El Baraka	9057	1340
+Sidi Maârouf	Hay Al Amal	10870	1302
+Mers Sultan	Sidi Maârouf	7890	1132
+Hay Essalam	Sidi Maârouf	155082	6523
+Sidi Maârouf	ANFA	8782	1358
+El Oulfa	Sidi Maârouf	7031	1040
+Lissasfa	Sidi Maârouf	5471	844
+Sidi Maârouf	Sidi Bernoussi	21055	1664
+Hay El Farah	Sidi Maârouf	10903	1335
+Sidi Maârouf	Al Fida	10125	1317
+Sidi Maârouf	BACHKOU	7457	1046
+Sidi Maârouf	Hay Woroud	2973427	111221
+Sidi Maârouf	LA GIRONDE	1775115	68853
+Sidi Maârouf	Derb Ghallef	8815	1326
+Sidi Moumen	Sidi Maârouf	17692	1666
+Hay Arrahma	Sidi Maârouf	16418	1722
+Hay Moulay Rachid 4	Sidi Maârouf	15290	1643
+Sidi Maârouf	Bournazel	2036558	77777
+Bourgogne	Aïn Borja	2336656	87772
+Maârif	Bourgogne	2340489	88049
+Bourgogne	Hay El Houda	2330724	87550
+Bourgogne	Hay El Baraka	2346065	88613
+Hay Al Amal	Bourgogne	2337255	87850
+Mers Sultan	Bourgogne	2338379	87871
+Hay Essalam	Bourgogne	2195788	83041
+ANFA	Bourgogne	2340036	88172
+El Oulfa	Bourgogne	2345648	88466
+Lissasfa	Bourgogne	2344114	88176
+Sidi Bernoussi	Bourgogne	2325637	87259
+Hay El Farah	Bourgogne	2335859	87833
+Bourgogne	Al Fida	2337310	87889
+Bourgogne	BACHKOU	2340946	87906
+Hay Woroud	Bourgogne	939983	35226
+LA GIRONDE	Bourgogne	551083	21255
+Bourgogne	Derb Ghallef	2341340	88236
+Sidi Moumen	Bourgogne	2330447	87569
+Hay Arrahma	Bourgogne	2334475	87797
+Hay Moulay Rachid 4	Bourgogne	2333567	87827
+Bournazel	Bourgogne	483452	20874
+Maârif	Aïn Borja	9517	1008
+Hay El Houda	Aïn Borja	9819	990
+Hay El Baraka	Aïn Borja	15093	1572
+Hay Al Amal	Aïn Borja	2624	506
+Mers Sultan	Aïn Borja	7407	830
+Hay Essalam	Aïn Borja	141850	5929
+ANFA	Aïn Borja	4090	807
+El Oulfa	Aïn Borja	14676	1425
+Lissasfa	Aïn Borja	13142	1135
+Sidi Bernoussi	Aïn Borja	12904	1007
+Hay El Farah	Aïn Borja	3111	563
+Al Fida	Aïn Borja	3682	745
+BACHKOU	Aïn Borja	9974	864
+Hay Woroud	Aïn Borja	2960195	110627
+LA GIRONDE	Aïn Borja	1761882	68260
+Derb Ghallef	Aïn Borja	4779	992
+Sidi Moumen	Aïn Borja	9542	1009
+Hay Arrahma	Aïn Borja	6815	1092
+Hay Moulay Rachid 4	Aïn Borja	6132	989
+Bournazel	Aïn Borja	2023325	77183
+Maârif	Hay El Houda	13121	1295
+Maârif	Hay El Baraka	7233	1091
+Maârif	Hay Al Amal	4304	886
+Maârif	Mers Sultan	4541	747
+Hay Essalam	Maârif	145152	6234
+Maârif	ANFA	1115	316
+Maârif	El Oulfa	6065	1056
+Lissasfa	Maârif	7256	844
+Maârif	Sidi Bernoussi	16207	1312
+Hay El Farah	Maârif	4791	943
+Maârif	Al Fida	3227	633
+Maârif	BACHKOU	1430	290
+Maârif	Hay Woroud	2963497	110932
+Maârif	LA GIRONDE	1765184	68565
+Maârif	Derb Ghallef	1495	364
+Maârif	Sidi Moumen	12844	1314
+Hay Arrahma	Maârif	11569	1370
+Maârif	Hay Moulay Rachid 4	10441	1291
+Maârif	Bournazel	2026627	77488
+Hay El Houda	Hay El Baraka	19266	1777
+Hay Al Amal	Hay El Houda	10456	1014
+Mers Sultan	Hay El Houda	11581	1034
+Hay Essalam	Hay El Houda	135335	5548
+ANFA	Hay El Houda	13237	1336
+El Oulfa	Hay El Houda	18850	1629
+Lissasfa	Hay El Houda	17316	1339
+Sidi Bernoussi	Hay El Houda	6390	626
+Hay El Farah	Hay El Houda	9061	997
+Al Fida	Hay El Houda	10511	1052
+Hay El Houda	BACHKOU	14148	1069
+Hay Woroud	Hay El Houda	2953680	110246
+LA GIRONDE	Hay El Houda	1755368	67879
+Derb Ghallef	Hay El Houda	14541	1400
+Sidi Moumen	Hay El Houda	1211	272
+Hay Arrahma	Hay El Houda	2756	590
+Hay Moulay Rachid 4	Hay El Houda	3006	651
+Bournazel	Hay El Houda	2016811	76802
+Hay Al Amal	Hay El Baraka	12969	1545
+Mers Sultan	Hay El Baraka	11483	1373
+Hay Essalam	Hay El Baraka	152099	6829
+ANFA	Hay El Baraka	8114	1250
+El Oulfa	Hay El Baraka	1834	332
+Lissasfa	Hay El Baraka	5551	939
+Sidi Bernoussi	Hay El Baraka	23154	1907
+Hay El Farah	Hay El Baraka	13002	1578
+Al Fida	Hay El Baraka	10194	1581
+BACHKOU	Hay El Baraka	7898	1184
+Hay Woroud	Hay El Baraka	2970444	111527
+LA GIRONDE	Hay El Baraka	1772132	69159
+Derb Ghallef	Hay El Baraka	7744	1154
+Sidi Moumen	Hay El Baraka	19792	1908
+Hay Arrahma	Hay El Baraka	18517	1965
+Hay Moulay Rachid 4	Hay El Baraka	17389	1885
+Bournazel	Hay El Baraka	2033575	78083
+Mers Sultan	Hay Al Amal	3509	607
+Hay Essalam	Hay Al Amal	141569	5832
+Hay Al Amal	ANFA	4027	752
+El Oulfa	Hay Al Amal	11317	1197
+Lissasfa	Hay Al Amal	9783	908
+Hay Al Amal	Sidi Bernoussi	12624	910
+Hay El Farah	Hay Al Amal	665	138
+Hay Al Amal	Al Fida	2008	375
+Hay Al Amal	BACHKOU	6615	637
+Hay Al Amal	Hay Woroud	2959914	110530
+Hay Al Amal	LA GIRONDE	1761602	68163
+Hay Al Amal	Derb Ghallef	4415	921
+Sidi Moumen	Hay Al Amal	9261	912
+Hay Arrahma	Hay Al Amal	6544	1037
+Hay Moulay Rachid 4	Hay Al Amal	5860	934
+Bournazel	Hay Al Amal	2023045	77086
+Hay Essalam	Mers Sultan	143072	5875
+Mers Sultan	ANFA	4296	741
+Mers Sultan	El Oulfa	9907	1080
+Lissasfa	Mers Sultan	8373	790
+Mers Sultan	Sidi Bernoussi	14127	953
+Hay El Farah	Mers Sultan	3429	638
+Mers Sultan	Al Fida	2636	467
+Mers Sultan	BACHKOU	5204	520
+Mers Sultan	Hay Woroud	2961417	110573
+Mers Sultan	LA GIRONDE	1763105	68206
+Mers Sultan	Derb Ghallef	4803	902
+Mers Sultan	Sidi Moumen	10765	955
+Hay Arrahma	Mers Sultan	9490	1011
+Mers Sultan	Hay Moulay Rachid 4	8362	932
+Mers Sultan	Bournazel	2024548	77129
+Hay Essalam	ANFA	145599	6231
+Hay Essalam	El Oulfa	151211	6524
+Lissasfa	Hay Essalam	149677	6234
+Hay Essalam	Sidi Bernoussi	131200	5318
+Hay El Farah	Hay Essalam	141422	5892
+Hay Essalam	Al Fida	142873	5947
+Hay Essalam	BACHKOU	146509	5964
+Hay Essalam	Hay Woroud	2820121	105781
+Hay Essalam	LA GIRONDE	1621808	63414
+Hay Essalam	Derb Ghallef	146903	6295
+Hay Essalam	Sidi Moumen	136010	5627
+Hay Arrahma	Hay Essalam	140038	5856
+Hay Essalam	Hay Moulay Rachid 4	139130	5885
+Hay Essalam	Bournazel	1883251	72338
+El Oulfa	ANFA	6866	1284
+Lissasfa	ANFA	7963	1054
+ANFA	Sidi Bernoussi	15781	1303
+Hay El Farah	ANFA	4353	841
+ANFA	Al Fida	2789	531
+ANFA	BACHKOU	2137	500
+ANFA	Hay Woroud	2963071	110923
+ANFA	LA GIRONDE	1764758	68556
+ANFA	Derb Ghallef	585	200
+Sidi Moumen	ANFA	12418	1305
+Hay Arrahma	ANFA	11144	1361
+Hay Moulay Rachid 4	ANFA	10015	1282
+Bournazel	ANFA	2026202	77479
+Lissasfa	El Oulfa	3671	719
+El Oulfa	Sidi Bernoussi	21588	1683
+Hay El Farah	El Oulfa	11436	1354
+El Oulfa	Al Fida	10658	1335
+El Oulfa	BACHKOU	6676	1108
+El Oulfa	Hay Woroud	2968878	111303
+El Oulfa	LA GIRONDE	1770566	68935
+El Oulfa	Derb Ghallef	6215	1171
+El Oulfa	Sidi Moumen	18225	1684
+Hay Arrahma	El Oulfa	16951	1741
+El Oulfa	Hay Moulay Rachid 4	15823	1661
+El Oulfa	Bournazel	2032009	77859
+Lissasfa	Sidi Bernoussi	19819	1294
+Lissasfa	Hay El Farah	9668	965
+Lissasfa	Al Fida	8890	947
+Lissasfa	BACHKOU	6645	841
+Lissasfa	Hay Woroud	2967110	110914
+Lissasfa	LA GIRONDE	1768797	68547
+Lissasfa	Derb Ghallef	7857	997
+Lissasfa	Sidi Moumen	16457	1296
+Lissasfa	Hay Arrahma	15182	1352
+Lissasfa	Hay Moulay Rachid 4	14054	1273
+Lissasfa	Bournazel	2030240	77470
+Hay El Farah	Sidi Bernoussi	13860	1148
+Sidi Bernoussi	Al Fida	15311	1203
+Sidi Bernoussi	BACHKOU	18948	1220
+Sidi Bernoussi	Hay Woroud	2950146	110213
+Sidi Bernoussi	LA GIRONDE	1751834	67846
+Sidi Bernoussi	Derb Ghallef	19341	1551
+Sidi Moumen	Sidi Bernoussi	8448	883
+Hay Arrahma	Sidi Bernoussi	11803	1158
+Hay Moulay Rachid 4	Sidi Bernoussi	11569	1141
+Bournazel	Sidi Bernoussi	2013277	76769
+Hay El Farah	Al Fida	2060	421
+Hay El Farah	BACHKOU	6546	646
+Hay El Farah	Hay Woroud	2958753	110508
+Hay El Farah	LA GIRONDE	1760440	68141
+Hay El Farah	Derb Ghallef	4743	984
+Hay El Farah	Sidi Moumen	8100	890
+Hay El Farah	Hay Arrahma	6079	982
+Hay El Farah	Hay Moulay Rachid 4	5395	879
+Hay El Farah	Bournazel	2021883	77064
+Al Fida	BACHKOU	2914	458
+Hay Woroud	Al Fida	2961648	110674
+LA GIRONDE	Al Fida	1763336	68306
+Derb Ghallef	Al Fida	2808	628
+Sidi Moumen	Al Fida	10995	1055
+Hay Arrahma	Al Fida	9721	1112
+Hay Moulay Rachid 4	Al Fida	8593	1032
+Bournazel	Al Fida	2024779	77230
+Hay Woroud	BACHKOU	2963450	110739
+LA GIRONDE	BACHKOU	1765138	68371
+Derb Ghallef	BACHKOU	2643	551
+Sidi Moumen	BACHKOU	12797	1120
+Hay Arrahma	BACHKOU	11523	1177
+Hay Moulay Rachid 4	BACHKOU	10395	1097
+Bournazel	BACHKOU	2026581	77295
+Hay Woroud	LA GIRONDE	1209342	43694
+Hay Woroud	Derb Ghallef	2965778	110521
+Sidi Moumen	Hay Woroud	2954885	109854
+Hay Arrahma	Hay Woroud	2958913	110082
+Hay Moulay Rachid 4	Hay Woroud	2958005	110112
+Bournazel	Hay Woroud	1251344	46930
+LA GIRONDE	Derb Ghallef	1767807	67914
+Sidi Moumen	LA GIRONDE	1756914	67247
+Hay Arrahma	LA GIRONDE	1760942	67475
+Hay Moulay Rachid 4	LA GIRONDE	1760034	67505
+Bournazel	LA GIRONDE	321924	12476
+Sidi Moumen	Derb Ghallef	12656	1265
+Hay Arrahma	Derb Ghallef	11381	1322
+Hay Moulay Rachid 4	Derb Ghallef	10253	1242
+Bournazel	Derb Ghallef	2026439	77440
+Hay Arrahma	Sidi Moumen	3825	719
+Sidi Moumen	Hay Moulay Rachid 4	4076	780
+Sidi Moumen	Bournazel	2016283	76769
+Hay Arrahma	Hay Moulay Rachid 4	914	167
+Hay Arrahma	Bournazel	2019379	76993
+Hay Moulay Rachid 4	Bournazel	2019212	76992
