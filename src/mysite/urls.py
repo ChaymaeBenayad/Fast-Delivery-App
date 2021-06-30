@@ -24,7 +24,7 @@ from landmark.views import (
     webpage2,
     palce_proche,
     map_view,
-    display_destination_reperes
+    display_destination_reperes,
     location_view,
     Contact_view,
     optimalPath_view,
