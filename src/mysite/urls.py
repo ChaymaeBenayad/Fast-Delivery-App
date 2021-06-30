@@ -25,6 +25,10 @@ from landmark.views import (
     palce_proche,
     map_view,
     display_destination_reperes
+    location_view,
+    Contact_view,
+    optimalPath_view,
+
 )
 
 from account.views import (
@@ -37,6 +41,9 @@ from account.views import (
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', home_view, name="home"),
+    path('myLocation/', location_view, name="MyLocation"),
+    path('contactUs/',  Contact_view, name="ContactUs"),
+    path('optimalPath/', optimalPath_view, name="optimalPath"),
     path('', login_view, name="login"),
     path('register/', registration_view, name="register"),
     path('logout/', logout_view, name="logout"),

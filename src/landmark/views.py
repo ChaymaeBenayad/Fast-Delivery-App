@@ -245,3 +245,11 @@ def map_view(request):
   
     return render(request, "landmark/map.html", context)
 
+def location_view(request):
+    return render(request, "landmark/MyLocation.html")
+
+def Contact_view(request):
+    return render(request, "landmark/ContactUs.html")
+
+def optimalPath_view(request):
+    return render(request, "landmark/optimalPath.html")    
