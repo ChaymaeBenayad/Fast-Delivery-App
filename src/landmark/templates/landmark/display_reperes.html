@@ -13,10 +13,10 @@ select {
  background-color: #fff;
  transition: all 0.4s;
  border-radius: 50%;
- border:none;
+ border:2px solid  #888888;
  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
- margin-bottom: 20px;
- margin-top: 15px;
+ margin-bottom: 35px;
+ margin-top: 50px;
 }
 select::-webkit-scrollbar{
     /* width: 15px;
@@ -30,7 +30,7 @@ color: #000;
  font-size: 16px;
  font-family: 'stenciletta-solid', sans-serif;
  cursor: pointer;
- padding: 5px 0px;
+ padding: 7px 0px;
 }
 
 select option:hover {
@@ -72,6 +72,58 @@ button:hover{
 .title{
     margin-top: 120px;
 }
+ .titre h2{
+    font-size: 25px;
+    color: #302e4d;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    position: relative;
+    margin-top: 120px;
+}
+.titre h2::before{
+    content: '';
+    height: 4px;
+    width: 100px;
+    position: absolute;
+    top: 110%;
+    left:0;
+    background-color: #fdd000;
+}
+.titre h2::after{
+    content: '';
+    height: 4px;
+    width: 50px;
+    position: absolute;
+    top: 135%;
+    left:0;
+    background-color: #fdd000;
+}
+ .titre1 h2{
+    font-size: 30px;
+    color: #302e4d;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+}
+.titre1 h2::before{
+    content: '';
+    height: 4px;
+    width: 100px;
+    position: absolute;
+    top: 110%;
+    left:41%;
+    background-color: #fdd000;
+}
+.titre1 h2::after{
+    content: '';
+    height: 4px;
+    width: 50px;
+    position: absolute;
+    top: 135%;
+    left:41%;
+    background-color: #fdd000;
+}
 
   </style> -->
 {% endblock css %}  
@@ -88,8 +140,12 @@ button:hover{
         <div class="row d-flex align-items-center bg8">
             <div class="col-lg-6 pr-5 ilust">
                 <div class="left wow fadeInLeft">
-                    <h2 class="pl-3 title">Livrez vos commandes rapidement ! </h2>
-                    <p class="pl-3">Trouvez votre chemin :</p>
+                    <!-- <h2 class="pl-3 title">Livrez vos commandes rapidement ! </h2> -->
+
+                   <!--  <p class="pl-3">Trouvez votre chemin :</p> -->
+                    <div class="titre">
+                        <h2>Trouvez votre chemin !</h2>
+                    </div>
                      <!-- Search Form -->
                      <div>
                          <form  method="post" action="{% url 'webpage2' %}">
@@ -118,8 +174,10 @@ button:hover{
 
 <section class="feature-cities-1">
     <div class="container">
-        <div class="sec-title">
+        <div class="titre1">
             <h2>Top Repères</h2>
+        </div>
+        <div class="sec-title" style="padding: 10px">
             <p>Endroits populaires à Casablanca</p>
         </div>
         <div class="row">
