@@ -80,7 +80,7 @@ def palce_proche(request):
 #change this list with your locations 
 reperes = ["Aïn Chock","Aïn Sebaâ","Hay Mohammadi","Ben M'sick","Hay Hassani","CASA Tachfine Center","Sbata","Sidi Maârouf","Bourgogne","Aïn Borja","Maârif","Hay El Houda","Hay El Baraka","Hay Al Amal","Mers Sultan","Hay Essalam","ANFA","El Oulfa","Lissasfa","Sidi Bernoussi","Hay El Farah","Al Fida","BACHKOU","Hay Woroud","LA GIRONDE","Derb Ghallef","Sidi Moumen","Hay Arrahma","Hay Moulay Rachid 4","Bournazel"]
 #utilisation de l API "Distance Matrix" qui vas nous aider a calculer les distances entre les repères
-gm_api = googlemaps.Client(key="AIzaSyAV90fRNoKOf92JItkGfroPSHjoUgvQrzA")
+gm_api = googlemaps.Client(key="")
 distance_reperes = {}
 duree_reperes ={}
 # calculer la distance et la duree entre chaque repères en mode "driving" avec le service distance_matrix de google maps 
