@@ -7,7 +7,7 @@ The main objective of this application is to allow the user who is in our case a
 	
 	Page d’authentification de livreur:
 
-Pour s’authentifier, l’utilisateur doit remplir le formulaire ci-dessous en saisissant son « Identifiant » et son « Mot de passe ». Si les informations saisies sont valides, il sera redirigé vers la page d’accueil. Sinon un message d’erreur sera affiché.
+Pour s’authentifier, l’utilisateur doit remplir le formulaire ci-dessous en saisissant son «Identifiant» et son «Mot de passe». Si les informations saisies sont valides, il sera redirigé vers la page d’accueil. Sinon un message d’erreur sera affiché.
 ![image](https://user-images.githubusercontent.com/78702422/146614730-3ee4b22e-ad03-4880-ad7a-a4732200b416.png)
 
 	Page d’accueil de l’utilisateur:
@@ -23,7 +23,7 @@ La figure ci-dessous représente les privilèges de l’application.
 La figure ci-dessous représente la partie des témoignages des livreurs, qui ont la possibilité d’afficher leurs sincères avis sur le fonctionnement de l'application.
 ![image](https://user-images.githubusercontent.com/78702422/146614908-d541089e-10a9-42a0-aae0-7100095af491.png)
 
-	Informations des repères:
+	Informations sur les repères:
 Parmi les pages que nous avons dans l’application, la page de différents repères populaires, sur cette page nous avons une image pour chaque repère qui indique ses caractéristiques principales.
 ![image](https://user-images.githubusercontent.com/78702422/146614972-6aaf83fb-687a-4f17-ba6d-9a85d814fbc1.png)
 
