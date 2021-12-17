@@ -7,15 +7,14 @@ The main objective of this application is to allow the user who is in our case a
 	
 	Page d’authentification de livreur:
 
-Pour s’authentifier, l’utilisateur doit remplir le formulaire ci-dessous en saisissant son
-« Identifiant » et son « Mot de passe ». Si les informations saisies sont valides, il sera redirigé vers la page d’accueil. Sinon un message d’erreur sera affiché.
+Pour s’authentifier, l’utilisateur doit remplir le formulaire ci-dessous en saisissant son « Identifiant » et son « Mot de passe ». Si les informations saisies sont valides, il sera redirigé vers la page d’accueil. Sinon un message d’erreur sera affiché.
 ![image](https://user-images.githubusercontent.com/78702422/146614730-3ee4b22e-ad03-4880-ad7a-a4732200b416.png)
 
 	Page d’accueil de l’utilisateur:
-La figure ci-dessous représente l’entête de la page d’accueil de l’utilisateur, elle affiche le lien de la partie des services et la partie de la déconnexion.
+La figure ci-dessous représente l’entête de la page d’accueil de l’utilisateur.
 ![image](https://user-images.githubusercontent.com/78702422/146614811-de499e7b-ad89-46bc-8a63-9e5224cd5900.png)
 
-La figure ci-dessous représente la partie services de l’application, elle affiche les liens vers les services de l’application « Chemin optimal » , « Ma localisation» et «Contactez nous » .
+La figure ci-dessous représente la partie services de l’application, elle affiche les liens vers les services de l’application « Chemin optimal » , « Ma localisation» et «Contactez nous ».
 ![image](https://user-images.githubusercontent.com/78702422/146614848-210f223d-0b96-444e-9404-0e81651f3b81.png)
 
 La figure ci-dessous représente les privilèges de l’application.
@@ -37,16 +36,13 @@ Après la sélection d’un nombre de repères, en cliquant sur le bouton recher
 
 	Détermination de la localisation :
 En cliquant sur le service « Ma localisation », ce service permet à chaque livreur de savoir sa localisation actuelle.
-![Uploading image.png…]()
+![image110](https://user-images.githubusercontent.com/78702422/146616384-ce842be0-5078-4396-9d1c-fdabd9d4faf2.jpg)
 
-	Page de «Contactez-nous »:
+	Page « Contactez-nous »:
 Le livreur a le droit de nous contacter directement sur notre boite à mails au cas d’un problème dans l’application ou bien pour savoir plus d’informations, il doit juste remplir le formulaire par le sujet de besoin ,son email, et le message qu’il veut envoyer ,et le message sera envoyer directement sur notre email en utilisant le serveur SMTP.
 ![image112](https://user-images.githubusercontent.com/78702422/146615585-9afdc20d-8bab-4982-af2f-7af4fe034658.jpg)
 
-Après la saisie des informations demandées :
-![image114](https://user-images.githubusercontent.com/78702422/146615623-41be56dd-1dc2-47fd-8a36-d9aa35794ad6.png)
-
-Le message est bien reçu sur notre boîte de réception :
+Après la bonne saisie des informations demandées, on trouve que le message est bien reçu sur notre boîte de réception :
 ![image116](https://user-images.githubusercontent.com/78702422/146615649-b8f231b2-dec6-40c3-902e-78be5a2ca331.jpg)
  
 
@@ -65,21 +61,7 @@ La figure ci-dessous représente la page d’accueil de l’administrateur qui a
 La figure ci-dessous représente la page d’affichage des comptes des livreurs qui consiste à une table « Accounts » qui contient les informations relatives aux livreurs (identifiant, nom, prénom, statut…).
 ![image](https://user-images.githubusercontent.com/78702422/146613572-4778bcc0-bcce-425d-941d-ae03d2b8e2f6.png)
 
-	Recherche d’un livreur par l’administrateur :
-
-L’administrateur a le droit de rechercher un livreur qui a un compte sur l’application par son identifiant ou son nom en utilisant une barre de recherche par filtrage. La figure ci-dessous représente un exemple de recherche par nom d’un livreur en tapant les premières lettres de son nom seulement.
-
-Figure 27: Recherche d’un livreur par l’administrateur.
- 
-	Page de modification et suppression des informations d’un livreur :
-
-L’administrateur a le droit de modifier les informations relatives aux livreurs (identifiant, mot de passe, nom, prénom...) et de supprimer un livreur. La figure ci-dessous représente un exemple de la page de modification et de suppression.
-
-Figure 28: La page de modification et suppression des informations d’un livreur.
 	Page d’affichage de la table de repères :
-
 La figure ci-dessous représente la page d’affichage des repères qui consiste à une table
 « Reperes » qui contient tous les repères qu’on va utiliser dans notre application. Il s’agit des quartiers connus de la ville Casablanca.
-
-Figure 29: La page d’affichage de la table de repères
-
+![image](https://user-images.githubusercontent.com/78702422/146616464-c1518dd7-970c-4135-8c06-625854c58106.png)
